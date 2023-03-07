@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "winter-vaccation",
+  "private_key_id": "d5601788c811833eac46a4925ba9bb46b36dab33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFyWI49LmVI2fP\n/hFj+VlzYxaKwTa63fWjoZWE0dxth7uui3s64Fuz5U8QlRZ5OHEhbMnBv8qLFJh8\nB36S+et8VHG5S41BamLS3AGSkHPCnAvT1l7iLBiFT5fYbbmXfPpEfbyEXJzXF5bC\ns29xotDkGLoSyogXZVbd/ctycpe0O2tUy81aZPey3R51pWOovayRcRBcKI2k5l84\nbS528e8mPeR2UfIUt2TWkUBJqZEoEFmTKH66o7ftUrUQgmFdxMtf1Z14wCbTdKx4\nSn5NBmp4gfHQDYNK1EN9Ez5r9TdBlobh7gGtbWfBivMxTLRst2mL3ql9gWuQSE7/\nxmH/1/ltAgMBAAECggEAKRTpwnPOglQ+0Vxv50iZFFb+DScRw6GrzmeXI2Xlt5hs\nWtZc679DPOwBzqtw5g/bq7opdAVuwBGwlH6IA2ZGy+XMU1UGi5JZ4XtSFkvLx53a\n9Q6/WZIYK8R7ATjVRkpuv0AwonuMFj8vkNRtbviHFAGw0Ith1h41+1kmY2i66vPZ\nHhEM1FuZNmspd2zwIJs/jdaAH0HrhjLp/K3AAKEDi4JRHvGo6ik8/hORot1UX+Cv\nghdPXZJWuaC5x8aQQwhtkirvbA5WNoPKy0klwaX1V7V9UxmjgYNg+KDuCx4cqNE6\nHYwsnvk9jmPJ7ltWuBf0GQn4Rn/A6J6Rl+UEQc4wbwKBgQDinBdYIeW7zTVRiPHk\neqWOSqhnRSP4UPVUhu0Yqg9Bg8d5nZfgblvhxMVjJZ1/5Y+Vvfth5xf9QLHp39xJ\nNCIWRetNn5eLF2hFtJJSX4CS4z7nIY1t7y64GbbIjVcAlFUekYQK+amoRgJy4SOe\nPsBMC0rXuo3xbrRqV+Bv4LZsGwKBgQDfcE6fwLPcpw1FkKV5yo4bCkrilcyl80wl\nJumkJaaPkolJeFIcVcxMr3Kr1QO47EZ1VvO+tnVHQtM5cQ3A8mXnpo7C7IFgzthe\nPmv/AOhz7PVj3lp/RZuf3jSWhC9uINmnmfNGOLyerphW5iduJaPproniPuvaVj65\noLshacr5FwKBgAnYHA+BEXjSFlHfcBqr1UtUJPKvhzt/UNkGL4CVyqne7qhy1ykx\nwh4RrT18YdYvg8hOg4AiSOGAkPoG9ovbjuuGyA0MNMofDzGQAZdAfNZkttPVmk4/\nSLlIrK8TrMbiqrv0OFc9t0gPGoYhD6oNMc9b4jly6j2lwIKqJJ7XlTUnAoGAFQ5g\nWm2uhXy4o3WeInwUKDgwFmpHftwOsPGZ0v45VA5bIbFVC5aKSi++frL0Rtj9StGG\n5tIK+0ww25jr0uME92+axIPFLXpQqZD4XG+ZeFM8TM0Hejb1E3u9OPH8BkTSPhkj\n89ok7E9Hy+ikjpy9dagdFlUXpNu7zYJ4IA34MsECgYEAvqSHXRXtcLDqb+1+r2Az\nXPhf8dYMb5hjjfD+IVvMBfN1ADix5SLhLqClRCxJlxquKqlEEN2fEGEMgDieFqe8\nIyurLXB0eiKbaLLBBQSX5fxn4IhiXtOzzbQpmbxlkZ5l3KFTJzE3IF8voPQoXZk+\nPfqdwgLFGPPcZHwjNPJv2Uk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-t0azx@winter-vaccation.iam.gserviceaccount.com",
+  "client_id": "113078998286007023666",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-t0azx%40winter-vaccation.iam.gserviceaccount.com"
+}
