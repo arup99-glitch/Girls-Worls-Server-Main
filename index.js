@@ -200,3 +200,6 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`listening at port ${port}`)
 })
+
+// DB_USER=girlsWorld
+// DB_PASS=0zR9fqcGejVAhyUf
